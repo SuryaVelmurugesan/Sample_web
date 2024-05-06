@@ -1,3 +1,3 @@
 # Instructions:
 
-This is a demo repository for practicing for Git & Github.
+This is a demo repository for practicing Git & Github.
